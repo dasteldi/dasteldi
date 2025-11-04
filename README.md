@@ -28,9 +28,7 @@
 
 ### 📫 Как со мной связаться
 
-<p align="left">
-  <a href="https://t.me/dastebsj8" target="blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="your_telegram" height="30" width="40" /></a>
-</p>
+Telegram: @dastebsj8
 
 ---
 
