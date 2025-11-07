@@ -1,24 +1,32 @@
-# Дастелди (Dasteldi) - Веб-разработчик
+<p align="center">
+  <img src="https://via.placeholder.com/800x200/6366f1/ffffff?text=🚀+Dasteldi+-+FullStack+Developer" width="100%"/>
+</p>
 
-![Banner](https://via.placeholder.com/1200x300/2D3748/FFFFFF?text=Dasteldi+-+Web+Developer) <!-- Замените на свой баннер -->
+<h1 align="center">👋 Привет! Я Дастелди</h1>
+<h3 align="center">💻 React • Node.js • Docker • Git</h3>
 
-Привет! Я Дастелди, веб-разработчик, специализирующийся на создании современных, эффективных и масштабируемых веб-приложений.
+## 🛠 Мой Стек
 
-## 🛠 Мой Технологический Стек
+**Frontend:** 
+`React` `JavaScript` `TypeScript` `HTML5` `CSS3`
 
-### Frontend
-- **React** (Функциональные компоненты, Hooks, Context API)
-- **JavaScript (ES6+) / TypeScript**
-- HTML5, CSS3 (SASS/SCSS, Styled Components)
+**Backend:** 
+`Node.js` `Express` `MongoDB` `PostgreSQL`
 
-### Backend
-- **Node.js**
-- **Express.js** / Nest.js
-- RESTful API, GraphQL (знаком)
+**Tools:** 
+`Docker` `Git` `GitHub` `Nginx`
 
-### Инфраструктура и Инструменты
-- **Docker** (контейнеризация приложений)
-- **Git** (система контроля версий)
-- CI/CD (знаком с основами настройки пайплайнов)
-- Nginx (базовая настройка)
+## 📊 Статистика
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" width="45%"/>
+</p>
+
+## 📫 Контакты
+
+**Telegram:** @dastebsj8
+
+---
+
+⭐ *Готов к новым вызовам!*
