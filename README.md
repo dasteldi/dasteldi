@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/800x200/6366f1/ffffff?text=🚀+Dasteldi+-+FullStack+Developer" width="100%"/>
-</p>
 
 <h1 align="center">👋 Привет! Я Дастелди</h1>
 <h3 align="center">💻 React • Node.js • Docker • Git</h3>
