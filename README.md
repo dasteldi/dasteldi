@@ -8,7 +8,7 @@
 `React` `JavaScript` `TypeScript` `HTML5` `CSS3`
 
 **Backend:** 
-`Node.js` `Express` `MongoDB` `PostgreSQL`
+`Node.js` `Express` `MongoDB` `PostgreSQL` `Python FastAPI`
 
 **Tools:** 
 `Docker` `Git` `GitHub` `Nginx`
