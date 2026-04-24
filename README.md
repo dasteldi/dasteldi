@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Привет! Я Дастелди</h1>
-<h3 align="center">💻 React • Node.js • Docker • Git</h3>
+<h3 align="center">💻 React • Python • Docker • Git</h3>
 
 ## 🛠 Мой Стек
 
